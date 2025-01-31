@@ -1,7 +1,8 @@
 ---
 permalink: /about/
-
+title: "About"
 ---
+
 ## About Me
 
 I am a Ph.D. integrated program student at Kyung Hee University. My current research interest lies in developing robotic arm control systems utilizing Vision-Language Models (VLMs).
